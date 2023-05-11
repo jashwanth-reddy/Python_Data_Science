@@ -1,2 +1,13 @@
-Hi
-My name is Jashwanth Reddy
+***********************************************************************
+Commands to push files into repository using git bash.
+
+1) First create or copy you file to cloned repository
+2) Open Git bash
+3) Add the file and stage it for commit
+    git add 'filename'
+4) Commit the file to you repository
+    git commit -m "filename'
+5) Push the changes to github
+    git push origin master
+
+**********************************************************************
